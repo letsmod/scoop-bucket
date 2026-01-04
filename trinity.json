@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "64bit": {
-            "url": "https://static.letsmod.com/releases/trinity/0.1.2/trinity_0.1.2_windows_amd64.zip",
+            "url": "https://static.letsmod.com/releases/trinity/0.1.3/trinity_0.1.3_windows_amd64.zip",
             "bin": [
                 "trinity.exe"
             ],
-            "hash": "c781cfa2853f51eb2fe07368ca34b415f5e73c875bd441727fbf20328f02aa21"
+            "hash": "d335ec25607246b435c677f319c4c96901ca5344bec2d329260462ce788bcac5"
         },
         "arm64": {
-            "url": "https://static.letsmod.com/releases/trinity/0.1.2/trinity_0.1.2_windows_arm64.zip",
+            "url": "https://static.letsmod.com/releases/trinity/0.1.3/trinity_0.1.3_windows_arm64.zip",
             "bin": [
                 "trinity.exe"
             ],
-            "hash": "348d469085b30f7d75020c04947dcb90baf74319e8b13ca351561616421521b4"
+            "hash": "f09e92714643b50b19b7d764f66143ae967e05cddccf809a3e348a569c7936c1"
         }
     },
     "homepage": "https://github.com/letsmod/trinity",
