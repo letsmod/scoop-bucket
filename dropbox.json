@@ -1,12 +1,12 @@
 {
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Syncs work orders and files between S3 and local storage",
   "homepage": "https://github.com/letsmod/dropbox",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://static.letsmod.com/releases/dropbox/0.1.0/dropbox_0.1.0_windows_amd64.zip",
-      "hash": "0b0a9f972345180bca4af5c02e840f1f7e39c2bb4eafd7333fc60be7e0bd8b55"
+      "url": "https://static.letsmod.com/releases/dropbox/1.0.0/dropbox_1.0.0_windows_amd64.zip",
+      "hash": "39796190443eb1dd85b0def716531c6b455d452080dc66ab0ed4b5ca96058299"
     }
   },
   "bin": "dropbox.exe",
